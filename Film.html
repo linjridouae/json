@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="Film.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Disabled</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <select class="form-select container w-150 bg-light text-dark border border-bottom" id="floatingSelect">
+        <option selected>Open this select menu</option>
+        <option value="titre">Un titre</option>
+        <option value="réalisateur">Un réalisateur</option>
+        <option value="durée">Une durée</option>
+        <option value="année de production">L'année de production</option>
+        <option value="TITRE">Un titre</option>
+        <option value="Année de Production">L'année de production</option>
+        <option value="Durée">Une durée</option>
+        <option value="Réalisateur">Un réalisateur</option>
+      </select>
+      <table class="table caption-top table-bordered">
+        <caption>Liste des 10 meilleurs films</caption>
+        <thead>
+          <tr>
+            <th scope="col">poster</th>
+            <th scope="col">titre</th>
+            <th scope="col">réalisateur</th>
+            <th scope="col">production Date</th>
+            <th scope="col">durée</th>
+            <th scope="col">festival</th>
+            <th scope="col">Acteurs</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+        </tbody>
+      </table>
+    <script src="Film.js"></script>
+</body>
+</html>

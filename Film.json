@@ -1,0 +1,275 @@
+[
+    {
+        "titre":"Titanic",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/1.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    }, 
+    {
+        "titre":"Avatar",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/avatar_PNG9.png",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Cruella",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/Cruella-poster-Courtesy-of-Disney.webp",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Smile",
+        "réalisateur":"Parker Finn",
+        "durée":115,
+        "production":2022,
+        "poster":"https://iegybest.film/wp-content/uploads/2022/10/Smile.jpg",
+        "Festivales":["Festival de Cannes","Academy Awards","César"],
+        "Acteurs":[
+            {
+                "sonnom":"Jessie",
+                "sonprénom":"T. Usherp",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Caitlin",
+                "sonprénom":"Stasey",
+                "Sanationalité":"Australian"
+            },
+            {
+                "sonnom":"Robin",
+                "sonprénom":"Weigert",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Black Adam",
+        "réalisateur":"Jaume Collet-Serra",
+        "durée":124,
+        "production":2022,
+        "poster":"https://iegybest.film/wp-content/uploads/2022/10/Black-Adam.jpg",
+        "Festivales":["Festival du Cinéma Américain de Deauville","Mostra de Venise","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Aldis",
+                "sonprénom":"Hodge",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Dwayne",
+                "sonprénom":"Johnson",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Pierce",
+                "sonprénom":"Brosnan",
+                "Sanationalité":"Irish"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Jumanji",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/JM2_INTL_OnLine_1080x1350_TSR_HERO_01.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Wakanda for ever",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/black_panther_wakanda_forever-201717-264-432.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Project Power",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/MV5BYWVkMjUxMzUtNTI5Mi00NjMyLWFlOTQtNjBjNTY2N2M0NzUxXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Code 8",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/https___pictures.betaseries.com_films_affiches_original_59451.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    },
+    {
+        "titre":"Aquit place",
+        "réalisateur":"James Cameron",
+        "durée":195,
+        "production":1997,
+        "poster":"photo/A_Quiet_Place_Part_II.jpg",
+        "Festivales":["festival du cinéma américain de Deauville","festival pluriel","festival de bregenz"],
+        "Acteurs":[
+            {
+                "sonnom":"Leonardo",
+                "sonprénom":"Discaprio",
+                "Sanationalité":"American"
+            },
+            {
+                "sonnom":"Billy",
+                "sonprénom":"Zane",
+                "Sanationalité":"Irish"
+            },
+            {
+                "sonnom":"Kate",
+                "sonprénom":"Winslet",
+                "Sanationalité":"American"
+            }
+            
+        ]
+    
+    }
+    
+    
+    
+]

@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(146, 46, 46);
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+table{
+    background-color: black;
+}
+td{
+    color: white; 
+}
+tr{
+    color: white; 
+}
